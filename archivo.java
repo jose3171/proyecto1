@@ -1,4 +1,4 @@
-public class prueba {ç
+public class prueba {
 	public static void main (String[] args){
 		int numero=5;
 	
